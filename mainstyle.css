@@ -2,3 +2,11 @@ body {
   background-color: red;
   color: #faebd7;
 }
+.menubutton {
+  background-color: blue;
+  height: 35px;
+  width: 70px;
+}
+.menubutton:hover {
+  background-color: green;
+}
