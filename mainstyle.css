@@ -1,12 +1,17 @@
 body {
   background-color: red;
   color: #faebd7;
+  font-weight: bold;
 }
 .menubutton {
   background-color: blue;
   height: 35px;
   width: 70px;
+  font-weight: bold;
+  color: orange;
 }
 .menubutton:hover {
   background-color: green;
+  font-weight:
+  color:orange;
 }

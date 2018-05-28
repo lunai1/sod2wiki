@@ -1,3 +1,15 @@
 body {
   background-color: yellow;
 }
+.menubutton {
+  background-color: purple;
+  height: 35px;
+  width: 70px;
+  color: yellow;
+  font-weight: bold;
+}
+.menubutton:hover {
+  background-color: #faebd7;
+  color: black;
+  font-weight: bold;
+}
