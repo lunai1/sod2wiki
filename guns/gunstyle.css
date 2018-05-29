@@ -6,5 +6,19 @@ body {
   background-color: #daa520;
   width: 300px;
   height: 200px;
-  
+}
+#flexiboi {
+    display: flex;
+    flex-direction: row;
+}
+#muuchwow {
+  display: flex;
+  flex-direction: row;
+}
+.gunmenu:hover {
+  background-color: red;
+  color: blue;
+}
+a {
+  color: orange;
 }
